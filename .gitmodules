@@ -1,0 +1,6 @@
+[submodule "HoloAndroid"]
+	path = HoloAndroid
+	url = https://github.com/artnoage/HoloAndroid
+[submodule "HoloFastApi"]
+	path = HoloFastApi
+	url = https://github.com/artnoage/HoloFastApi
